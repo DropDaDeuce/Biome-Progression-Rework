@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <Name value="BiomeProgressionRework" />
+    <DisplayName value="Biome Progression Rework" />
+    <Description value="New biome progression based on armor mods obtained through new quests." />
+    <Author value="DropDaDeuce" />
+    <Version value="1.0.0.0" />
+    <Website value="" />
+    <SkipWithAntiCheat value="true" />
+</xml>
